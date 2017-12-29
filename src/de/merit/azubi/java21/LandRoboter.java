@@ -1,3 +1,5 @@
+package de.merit.azubi.java21;
+
 public class LandRoboter extends ForschungsRoboter {
 
     String fahrwerk;

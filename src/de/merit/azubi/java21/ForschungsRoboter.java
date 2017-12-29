@@ -1,3 +1,5 @@
+package de.merit.azubi.java21;
+
 public class ForschungsRoboter extends Roboter {
 
     float temperature;

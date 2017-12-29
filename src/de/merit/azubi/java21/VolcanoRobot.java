@@ -1,3 +1,5 @@
+package de.merit.azubi.java21;
+
 public class VolcanoRobot extends LandRoboter {
 
 

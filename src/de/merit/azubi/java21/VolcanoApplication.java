@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+package de.merit.azubi.java21;
 
 public class VolcanoApplication {
 
