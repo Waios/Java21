@@ -3,7 +3,11 @@ package de.merit.azubi.java21.day6;
 public class Circle {
 
 
-    private double radius;
+    private  double radius;
+
+    public static final int TOUCHDOWN = 6;
+
+    double randomNumber = Math.random();
 
 
     public Circle(double radius){
@@ -17,6 +21,7 @@ public class Circle {
     }
 
     public double circumference(){
+
         return 2 * Math.PI * radius;
     }
 }

@@ -6,7 +6,7 @@ public class RedButton extends javax.swing.JButton {
 
     private boolean offline;
 
-    /*nix*/ static final double WEEKS = 9.5; //ist im gleichen Pakat zugreifgbar
+    /*nix*/ static final double WEEKS = 9.5; //ist im gleichen Paket zugreifgbar
 
     protected static final int MEANING_OF_LIFE = 42;
 
